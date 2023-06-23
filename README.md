@@ -55,6 +55,7 @@
 - Each product accounts for 19% - 20% of total data.
 - More than 71% users prefer using mobile phone than desktop (only 28%)
 - Nearly 3% of users have purchased, the click rate is about 10%.
+  
 **Recommendation:**
 - **Put more advertising banners on the first quarter, especially on Febuary** because users tend to buy more products at the start of a new year.
 - **Focus on pushing clothes and sneakers advertising banners in 2 timeframes: 8p.m - 3a.m and 11p.m - 3.am** on both website and mobile to increase conversion rate.
