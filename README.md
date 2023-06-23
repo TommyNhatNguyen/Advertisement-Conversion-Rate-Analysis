@@ -1,7 +1,7 @@
 # Advertisement Conversion Rate Analysis 
 ### **1. Context:** 
 - Online store of sporting goods: clothing, shoes, accessories and sports nutrition. **On the main page of the store they show users banners in order to stimulate their sales.** Now one of 5 banners is randomly displayed there. Each banner advertises a specific product or the entire company. Our marketers believe that the experience with banners can vary by segment, and their effectiveness may depend on the characteristics of user behavior.
-- Source code: ![](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/blob/main/Product_Conversion_Rate_EDA.ipynb)
+- Source code: ![https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/blob/main/Product_Conversion_Rate_EDA.ipynb](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/blob/main/Product_Conversion_Rate_EDA.ipynb)
 ### **2. Business goals:** 
 - Recommend how/when/what to show advertising banners on the store's main page to increase sales.
 ### 3. Forming questions & EDA:
