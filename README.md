@@ -6,6 +6,13 @@
 ### 3. Forming questions & EDA:
 **Overview data:**
 ![image](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/assets/86128966/3a271b93-fefa-4164-b53e-8804b26710a2)
+
+![image](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/assets/86128966/583f29a6-b5aa-440c-9995-1085b2dae08d)
+
+- Each product accounts for 19% - 20% of total data.
+![image](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/assets/86128966/c365a237-7680-4df3-b2a1-c7d2c29f82f3)
+
+- More than 71% users prefer using mobile phone than desktop (only 28%)
 **Forming questions & EDA:**
 1. Which product has the highest conversion rate?
 ![image](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/assets/86128966/c2771149-3255-4a76-9baf-f0d23beadab7)
@@ -41,3 +48,12 @@
 10. Is there a significant difference in conversion rate between each product?
 ![image](https://github.com/TommyNhatNguyen/Product-Conversion-Rate-Analysis/assets/86128966/fa66a923-d3d0-403d-a4c5-39301d8c9d4a)
 - P-value < 0.05 => There's a significant difference in coversion rate between each products => clothes is the highest, sneakers is the second, then accessories and sport nutrition
+### 4. Conclusion & Recommendation
+**Overview of the data:**
+- Each product accounts for 19% - 20% of total data.
+- More than 71% users prefer using mobile phone than desktop (only 28%)
+- Nearly 3% of users have purchased, the click rate is about 10%.
+**Recommendation:**
+- Put more advertising banners on the first quarter, especially on Febuary because users tend to buy more products at the start of a new year.
+- Focus on pushing clothes and sneakers advertising banners in 2 timeframes: 8p.m - 3a.m and 11p.m - 3.am on both website and mobile to increase conversion rate.
+- We have to put advertising banners on both website and mobile is because users will check information using mobile device, then go to the website to buy. Therefore, we have to constantly remind customers about the products across platforms to turn leads into sales.
